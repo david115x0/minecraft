@@ -1,0 +1,30 @@
+
+#banner{
+    background-image: url(img/vila.webp);
+    width: 70%;
+    height: 600px;
+    background-size: cover;
+    background-position-x: center;
+    margin: 50px 130px ;
+}
+#banner h1 {
+    color: white;
+    padding: 10px;
+    margin: 0px 30px;
+}
+#banner p{
+    color: white;
+    padding: 10px;
+    margin: 0px 30px;
+    
+}
+#banner button{
+    width: 326.86px;
+    height: 72.16px;
+    margin-top: 30px;
+    padding: 22.08px 52px;
+    margin: 100px 30px 0px;
+    color: #fff;
+    background-color: #34aa2f;
+    border-color: #34aa2f;
+}
